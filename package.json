@@ -1,0 +1,13 @@
+{
+  "name": "nocrop-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "DEV_SERVER_PORT=4000 dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
